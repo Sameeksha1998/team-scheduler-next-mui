@@ -37,7 +37,7 @@ It replicates the provided Figma design and includes scheduling, assignment, and
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/team-scheduler-next-mui.git
+git clone https://github.com/Sameeksha1998/team-scheduler-next-mui.git
 cd team-scheduler-next-mui
 npm install
 npm run dev
