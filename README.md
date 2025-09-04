@@ -44,4 +44,6 @@ npm run dev
 
 
 ## 📸 Preview
-[![App Screenshot](public/screenshots/app.png)](public/screenshots/app.png)
+
+[![App Screenshot](https://raw.githubusercontent.com/Sameeksha1998/team-scheduler-next-mui/main/public/screenshots/app.png)](https://raw.githubusercontent.com/Sameeksha1998/team-scheduler-next-mui/main/public/screenshots/app.png)
+
